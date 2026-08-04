@@ -6,9 +6,9 @@ The actions carried out include:
 
 - Power query/ DAX
 - Data transformation
- - Split column
- - Remove column
- - Create column
+  - Split column
+  - Remove column
+  - Create column
 - Data analysis
 - Conditional formatting
 - Filters
