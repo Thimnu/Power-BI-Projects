@@ -5,7 +5,10 @@ Analysis of various datasets showcasing Power BI use.
 The actions carried out include:
 
 - Power query/ DAX
-- Data cleaning/ transformation
+- Data transformation
+ - Split column
+ - Remove column
+ - Create column
 - Data analysis
 - Conditional formatting
 - Filters
