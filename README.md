@@ -20,5 +20,5 @@ The analysed data were transformed into visualisations dashboards to give a snap
 The data analysis and raw data are available on the Power BI sheets.
 
 Screenshots of the sheets can be viewed below :
-- <a href="https://github.com/Thimnu/Power-BI-Projects/blob/main/Dashboard%201.png"> Dashboard 1 </a>
+- <a href="https://github.com/Thimnu/Power-BI-Projects/blob/main/Dashboard%201..png"> Dashboard 1 </a>
 - <a href="https://github.com/Thimnu/Power-BI-Projects/blob/main/Dashboard%202.png"> Dashboard 2 </a>
